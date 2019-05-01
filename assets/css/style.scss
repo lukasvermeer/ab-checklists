@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+.tag-h2 {
+  display: none;
+}
