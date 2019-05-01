@@ -1,4 +1,6 @@
 theme: jekyll-theme-leap-day
+title: A/B Checklists
+description: Three Key Checklists and Remedies for Trustworthy Analysis of Online Controlled Experiments at Scale
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -6,6 +8,3 @@ relative_links:
   collections: true
 include:
   - README.md
-  - DESIGN.md
-  - EXECUTE.md
-  - ANALYSE.md
